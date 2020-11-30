@@ -14,7 +14,7 @@ app.use(express.json())
 // routes
 app.use('/api/phones', require('./routes/phones.js'))
 
-// inicio server
+// server start
 app.listen(app.get('port'), () => {
     console.log('server on port '+app.get('port'))
 })
