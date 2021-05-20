@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "vendor":"Apple",
+        "name":"iPhone 12 Pro Max",
+        "camera" : "12MP (Triple Camera)",
+        "display": "6.7' OLED",
+        "memory": "128GB, not expandable",
+        "battery":"3687 mAh",
+        "os":"iOS 14.x",
+        "image": "https://i-cdn.phonearena.com/images/phones/81054-xlarge/P1640557.jpg"
+    },
+    {
+        "id": 2,
+        "vendor":"Samsung",
+        "name":"Samsung Galaxy S21+",
+        "camera" : "12MP (Triple Camera)",
+        "display": "6.7'",
+        "memory": "128GB, not expandable",
+        "battery":"4800 mAh",
+        "os":"Android (11), Samsung One UI",
+        "image": "https://i-cdn.phonearena.com/images/phones/81326-xlarge/Samsung-Galaxy-S212.jpg"
+    },
+    {
+        "id": 3,
+        "vendor":"Motorola",
+        "name":"Moto G Power",
+        "camera" : "48MP (Triple Camera)",
+        "display": "6.6'",
+        "memory": "64GB, microSDXC",
+        "battery":"5000 mAh",
+        "os":"Android 10",
+        "image": "https://i-cdn.phonearena.com/images/phones/81245-xlarge/Motorola-Moto-G-Power20212.jpg"
+    },
+    {
+        "id": 4,
+        "vendor":"OnePlus",
+        "name":"OnePlus 9",
+        "camera" : "48MP",
+        "display": "6.5' OLED 120Hz",
+        "memory": "128GB, not expandable",
+        "battery":"4500 mAh",
+        "os":"Android 11 OxygenOS UI",
+        "image": "https://i-cdn.phonearena.com/images/phones/81901-xlarge/OnePlus-91.jpg"
+    },
+    {
+        "id": 5,
+        "vendor":"Google",
+        "name":"Pixel 5",
+        "camera" : "12.2MP (Dual Camera)",
+        "display": "6.0'",
+        "memory": "128GB, not expandable",
+        "battery":"4080 mAh",
+        "os":"Android 11",
+        "image": "https://i-cdn.phonearena.com/images/phones/80464-xlarge/Google-Pixel-51.jpg"
+    },
+    {
+        "id": 6,
+        "vendor":"Xiaomi",
+        "name":"POCO M3 Pro 5G",
+        "camera" : "48MP (Triple Camera)",
+        "display": "6.5'",
+        "memory": "64GB, not expandable",
+        "battery":"5000 mAh",
+        "os":"Android 11, MIUI 12 for POCO UI",
+        "image": "https://i-cdn.phonearena.com/images/phones/82323-xlarge/Xiaomi-POCO-M3-Pro-5G1.jpg"
+    }
+]
