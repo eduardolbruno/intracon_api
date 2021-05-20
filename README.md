@@ -17,7 +17,7 @@ Open terminal and run `docker build . -t api` to build the docker image.
 
 When the build process has ended successfully, you can run:
 ```
-docker run -p 3000:3000 api
+docker run --rm -p 3000:3000 api
 ```
 
 At this point, the Api will start running in terminal at localhost (port 3000)
