@@ -1,6 +1,6 @@
 FROM node:8.1
 
-WORKDIR /app
+WORKDIR /rest-api
 
 COPY package*.json ./
 

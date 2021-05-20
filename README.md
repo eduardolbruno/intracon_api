@@ -1,2 +1,11 @@
 # reactnative_restapi
-REST Api developed in nodeJS for Intracon challenge
+This is a "Dockerized" API developed in nodeJS for Intracon Challenge.
+
+## Dependencies
+
+> nodeJS
+> nodemon
+> express
+> morgan
+> node-fetch
+> underscore-node
