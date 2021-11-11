@@ -1,5 +1,5 @@
 # reactnative_restapi
-This is a "Dockerized" API developed in nodeJS requested by Intracon
+This is a "Dockerized" API developed in nodeJS
 
 <br>
  <p align="center">
